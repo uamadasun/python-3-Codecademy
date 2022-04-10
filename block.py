@@ -1,4 +1,5 @@
-# Uchenna Amadasun
+'''Write a Python program called initials.py that displays the initials of your name in block letters as shown and dip your toes into ASCII art.''' 
+#Uchenna Amadasun
 # I am a mom of 2
 top = """
 U   U      A
